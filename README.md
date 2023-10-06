@@ -11,7 +11,7 @@ Our NightDrone Dataset includes $6,805$ images collected by drones.
 This dataset includes $5,445$ training images and $1,360$ testing images. 
 $254,222$ objects were manually annotated with BBoxes. 
 Each image in NightDrone includes an average of $37.36$ objects, of which the maximum number is $673$.
-
+Our NightDrone dataset can be downloaded from: https://drive.google.com/file/d/1pLJDO582rDx6I9CRhqcrgGbEb4dFvWH-/view?usp=drive_link.
 
 
 
