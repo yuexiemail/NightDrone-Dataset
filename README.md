@@ -12,7 +12,7 @@ From VisDrone[1], we carefully selected the nighttime images and their correspon
 The spatial resolution of the images is approximately $2,000 \times 1,500$ pixels. 
 These images are annotated with giving BBoxes into ten pre-defined categories, i.e.,
 \textit{Truck, Bus, Car, Van, Awning-tricycle, Tricycle, Motor, Bicycle, Person, Pedestrian}, same as those in VisDrone.
-The VisDrone (Night) Dataset is avaliable at: https://drive.google.com/file/d/1-od7QvvXSEI2Sl_K43bjCbX9mP1HpOQp.
+The VisDrone (Night) Dataset is avaliable at: https://drive.google.com/file/d.
 
 \textbf{DroneVehicle (Night):} 
 As the first drone-based cross-modality dataset for vehicle detection, DroneVehicle contains pairs of RGB and infrared images. Similarly, we carefully selected image pairs collected during the nighttime and then chose only RGB images with annotated ground truth to build the DroneVehicle (Night) dataset. 
